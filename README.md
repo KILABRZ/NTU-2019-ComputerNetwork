@@ -16,16 +16,16 @@
 
 ### Command ( Simple )
 
-- register, reg <username> <password>
+- register, reg username password
   - 向伺服器註冊一個用戶
 
-- login <username> <password>
+- login username password
   - 向伺服器發送登入
 
-- send <username> <message>
+- send username message
   - 向某個使用者發送文字短訊
 
-- sendfile <username> <filepath>
+- sendfile username filepath
   - 向某個使用者傳送檔案。
 
 - msg
