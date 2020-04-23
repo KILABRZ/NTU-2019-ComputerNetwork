@@ -9,6 +9,7 @@
 
 ### Use
 
+- 需求為 Python 3.6、以及安裝 Cryptodome 這個套件
 - 執行前，需要在 pwd 下新增三個資料夾，並取名為 download, log, users。
 - 打開 server，進 server.py 裡找 server 的 listen port，然後打開 clients 連上該 port。
 - 連上之後便可以在 client 端敲各種指令和 server 端進行互動。
@@ -33,4 +34,4 @@
 
 - 跳進伺服器的暫存檔裡，可以發現包含檔案在內的所有東西全都是保密的。
 
-總之就是這樣子的一個專案
+總之就是這樣子的一個專案。
